@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="Test_Android.Test_Android" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
-  <uses-sdk android:minSdkVersion="24" android:targetSdkVersion="24" />
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="23" />
   <uses-permission android:name="android.permission.BIND_INPUT_METHOD" />
   <uses-permission android:name="android.permission.BIND_TEXT_SERVICE" />
   <uses-permission android:name="android.permission.INTERNET" />

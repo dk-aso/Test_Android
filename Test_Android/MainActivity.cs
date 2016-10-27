@@ -5,6 +5,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using Android.Graphics;
 
 namespace Test_Android
 {
@@ -23,18 +24,49 @@ namespace Test_Android
             // Get our button from the layout resource,
             // and attach an event to it
             Button button = FindViewById<Button>(Resource.Id.MyButton);
+            Button button1 = FindViewById<Button>(Resource.Id.pyt1_button);
             TextView textView = FindViewById<TextView>(Resource.Id.Pyt01);
+            textView.SetBackgroundColor(Color.ParseColor("#696969"));
             String txtOne = "Du har valgt at sige pyt, så kom videre i livet!";
-            String txtTwo = "Da har valg at trykke PYT, det betyder at du ikke skal bruge mere energi på det du har pyttet!";
+            String txtTwo = "Du har valg at trykke PYT, det betyder at du ikke skal bruge mere energi på det du har pyttet!";
             String txtThree = "PYT!! Og så er der fri bane fremad!";
 
             //button.Click += delegate { button.Text = string.Format("{0} clicks!", count++); };
-            button.Click += delegate { if (DateTime.Now.Second % 3 == 1)
-                                            { textView.Text = txtOne; }
-                                       else if (DateTime.Now.Second % 3 == 2)
-                                            { textView.Text = txtTwo; }
-                                       else { textView.Text = txtThree; }
-                                      };
+            button.Click += delegate
+            {
+                if (DateTime.Now.Second % 3 == 1)
+                {
+                    textView.Text = txtOne;
+                    textView.SetBackgroundColor(Color.Yellow);
+                }
+                else if (DateTime.Now.Second % 3 == 2)
+                {
+                    textView.Text = txtTwo;
+                    textView.SetBackgroundColor(Color.ParseColor("#8DB600"));
+                }
+                else
+                {
+                    textView.Text = txtThree;
+                    textView.SetBackgroundColor(Color.ParseColor("#00FF6F"));
+                }
+            };
+            button1.Click += delegate {
+                if (DateTime.Now.Second % 3 == 1)
+                {
+                    textView.Text = txtOne;
+                    textView.SetBackgroundColor(Color.Yellow);
+                }
+                else if (DateTime.Now.Second % 3 == 2)
+                {
+                    textView.Text = txtTwo;
+                    textView.SetBackgroundColor(Color.ParseColor("#8DB600"));
+                }
+                else
+                {
+                    textView.Text = txtThree;
+                    textView.SetBackgroundColor(Color.ParseColor("#00FF6F"));
+                }
+            };
         }
     }
 }

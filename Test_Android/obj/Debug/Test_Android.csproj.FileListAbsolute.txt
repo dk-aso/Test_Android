@@ -37,4 +37,44 @@ C:\Users\alla3118\documents\visual studio 2015\Projects\Test_Android\Test_Androi
 C:\Users\alla3118\documents\visual studio 2015\Projects\Test_Android\Test_Android\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
 C:\Users\alla3118\documents\visual studio 2015\Projects\Test_Android\Test_Android\obj\Debug\android\assets\Test_Android.dll.mdb
 C:\Users\alla3118\documents\visual studio 2015\Projects\Test_Android\Test_Android\obj\Debug\Test_Android.dll.mdb
-C:\Users\alla3118\documents\visual studio 2015\Projects\Test_Android\Test_Android\bin\Debug\Test_Android.dll.mdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\obj\Debug\Test_Android.csprojResolveAssemblyReference.cache
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\obj\Debug\Test_Android.dll
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\obj\Debug\Test_Android.pdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\bin\Debug\Test_Android.dll
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\bin\Debug\Test_Android.pdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\bin\Debug\Test_Android.Test_Android.apk
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\bin\Debug\Test_Android.Test_Android-Signed.apk
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\obj\Debug\android\bin\Test_Android.Test_Android.apk
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\obj\Debug\res\layout\main.xml
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\obj\Debug\res\values\strings.xml
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\obj\Debug\res\drawable\icon.png
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\obj\Debug\res\drawable\gift_icon_72.png
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\obj\Debug\res\drawable\pyt1_button.png
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\obj\Debug\R.cs.flag
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\obj\Debug\uploadflags.txt
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\bin\Debug\Java.Interop.dll.mdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\bin\Debug\Mono.Android.dll.mdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\bin\Debug\mscorlib.dll.mdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\bin\Debug\System.Core.dll.mdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\bin\Debug\System.dll.mdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\bin\Debug\System.Xml.dll.mdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\bin\Debug\Test_Android.dll.mdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\obj\Debug\android\assets\System.dll.mdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\obj\Debug\android\assets\Test_Android.dll.mdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\obj\Debug\Test_Android.dll.mdb
+C:\Users\alla3118\Source\Repos\Test_Android\Test_Android\bin\Debug\Test_Android.dll.mdb
